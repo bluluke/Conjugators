@@ -7,4 +7,4 @@ const conjugateAre = (infinitive) => {
 
 }
 
-export {conjugateAre};
+module.exports = conjugateAre;

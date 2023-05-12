@@ -7,4 +7,4 @@ const conjugateIre = (infinitive) => {
 
 
 
-export {conjugateIre};
+module.exports = conjugateIre;
