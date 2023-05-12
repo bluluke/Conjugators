@@ -6,4 +6,5 @@ const conjugateEre = (infinitive) => {
 
 }
 
-console.log(conjugateEre('vivere'));
+
+export {conjugateEre};

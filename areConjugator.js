@@ -7,4 +7,4 @@ const conjugateAre = (infinitive) => {
 
 }
 
-console.log(conjugateAre('parlare'));
+export {conjugateAre};

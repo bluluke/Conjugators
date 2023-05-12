@@ -5,4 +5,6 @@ const conjugateIre = (infinitive) => {
 
 }
 
-console.log(conjugateIre('finire'));
+
+
+export {conjugateIre};
