@@ -7,4 +7,5 @@ const conjugateIre = (infinitive) => {
 
 console.log('I hope you like your conjugations.');
 console.log('I hope these conjugations improve your life.');
+console.log('I hope you are happy.');
 module.exports = conjugateIre;
