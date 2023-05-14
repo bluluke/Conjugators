@@ -5,6 +5,6 @@ const conjugateIre = (infinitive) => {
 
 }
 
-
+console.log('I hope you like your conjugations.');
 
 module.exports = conjugateIre;
